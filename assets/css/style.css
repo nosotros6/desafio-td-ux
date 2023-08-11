@@ -264,7 +264,13 @@ button:hover {
   .img-articulo-gato {
     width: 75%;
   }
+  .img-contact-2 {
+    display: none;
+  }
   .beneficios {
     font-size: 24px;
+  }
+  .img-footer {
+    display: none;
   }
 }
