@@ -67,8 +67,8 @@
 .img-contact-2 {
   position: absolute;
   transform: translate(-50%, -50%);
-  top: 1435px;
-  right: 750px;
+  top: 1542px;
+  right: 720px;
   z-index: 1;
   max-width: 15%;
 }
@@ -131,6 +131,11 @@ button:hover {
   max-width: 800px;
   margin: 0 auto;
   padding: 0 15px;
+}
+
+.texto-calendario{
+  margin-top: 120px;
+  margin-bottom: 80px;
 }
 
 .custom-table {
