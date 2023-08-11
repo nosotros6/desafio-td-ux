@@ -59,7 +59,7 @@
 .img-contact {
   position: absolute;
   transform: translate(-50%, -50%);
-  top: 936px;
+  top: 957px;
   right: 100px;
   z-index: 1;
 }
@@ -67,8 +67,8 @@
 .img-contact-2 {
   position: absolute;
   transform: translate(-50%, -50%);
-  top: 1542px;
-  right: 720px;
+  top: 1565px;
+  right: 736px;
   z-index: 1;
   max-width: 15%;
 }
@@ -214,6 +214,20 @@ button:hover {
   right: 606px;
   z-index: 1;
   max-width: 16%;
+}
+
+.titulo-preguntas{
+  margin-top: 100px;
+  margin-bottom: 40px;
+}
+
+#contactar{
+  font-family: "Comfortaa", cursive;
+}
+
+.boton-grande {
+  font-family: "Comfortaa", cursive;
+  font-size: 20px;
 }
 
 @media (max-width: 768px) {
