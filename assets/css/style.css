@@ -250,7 +250,7 @@ button:hover {
     display: none;
   }
   .beneficios {
-    font-size: 14px;
+    font-size: 24px;
   }
 }
 
@@ -265,6 +265,6 @@ button:hover {
     width: 75%;
   }
   .beneficios {
-    font-size: 14px;
+    font-size: 24px;
   }
 }
