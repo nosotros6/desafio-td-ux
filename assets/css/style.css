@@ -10,7 +10,7 @@
 }
 
 .navbar {
-  width: 100vw;
+  width: 100%;
 }
 
 .navbar-text {
@@ -33,6 +33,7 @@
 
 .title-home {
   font-family: "Roboto", sans-serif;
+  width: 100vw;
 }
 
 .text-hero {
@@ -133,7 +134,7 @@ button:hover {
   padding: 0 15px;
 }
 
-.texto-calendario{
+.texto-calendario {
   margin-top: 120px;
   margin-bottom: 80px;
 }
@@ -158,11 +159,11 @@ button:hover {
 
 .footer-content-home {
   position: relative;
-  width: 100%;
+  width: 114%;
   text-align: center;
   color: #fff;
   padding: 40px;
-  margin-top: 200px;
+  margin-top: 100px;
 }
 
 #contact-form-footer {
@@ -216,12 +217,12 @@ button:hover {
   max-width: 16%;
 }
 
-.titulo-preguntas{
+.titulo-preguntas {
   margin-top: 100px;
   margin-bottom: 40px;
 }
 
-#contactar{
+#contactar {
   font-family: "Comfortaa", cursive;
 }
 
@@ -251,6 +252,10 @@ button:hover {
   }
   .beneficios {
     font-size: 24px;
+  }
+  .img-articulo-gato {
+    max-width: 375px;
+    margin-left:-90px ;
   }
 }
 
