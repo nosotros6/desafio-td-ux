@@ -79,3 +79,9 @@ document.addEventListener('DOMContentLoaded', function() {
   });
   calendar.render();
 });
+
+function prueba() {
+  console.log(Uno);
+  return 'esta es una prueba'
+}
+prueba()
